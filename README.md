@@ -1,2 +1,8 @@
-# Income-Prediction-Webapp
-Flask based Web application for predicting the income of a person
+# Census-data-neural-network-keras
+
+
+## Getting Started 
+
+## Author
+
+**Ritvik Khanna**
